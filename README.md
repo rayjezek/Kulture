@@ -84,7 +84,7 @@ Since we just grabbed this from source control there are NuGet packages which th
 
 You should see a Terminal/Powershell window launch and execute your commands.
 
-Now, let's go ahead and tell Sublime to use `vNext` as the build system. To do this, click `Tools -> Build System -> vNext`
+Now, let's go ahead and tell Sublime to use `ASP.NET` as the build system. To do this, click `Tools -> Build System -> ASP.NET`
 
 - Press `Ctrl(Cmd) + B` or `F7` to build projects
 
